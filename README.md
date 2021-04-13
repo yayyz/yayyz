@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=180&section=header&text=Yeji%20Im&animation=twinkling&fontSize=70)
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
