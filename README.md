@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyayyz%2Fhit-counter&count_bg=%23CEC1E7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/yayyz?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/yayyz?pet-id=646692915936220313" width="1000" height="120"/>
 </a>
